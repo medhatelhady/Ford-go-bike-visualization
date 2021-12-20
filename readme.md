@@ -28,7 +28,6 @@ data looks pretty clean but it needs more assessing .I have assessed it and foun
 - they used it more form 7Am to 8Pm
 - most of trip durantion range from 1 minute to 50 minutes.
 - they use it in december a little bit
-- 
 
 
 
